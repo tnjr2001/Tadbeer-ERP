@@ -1,0 +1,7 @@
+{
+  "name": "Tadbier - ERP System",
+  "description": "A comprehensive business management system (ERP) in Arabic, featuring inventory control, invoice generation, and customer/supplier management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
